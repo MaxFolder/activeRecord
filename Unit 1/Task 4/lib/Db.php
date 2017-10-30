@@ -7,7 +7,7 @@ use PDO;
 class Db {
 
     const USER = "root";
-    const PWD = "zcegthvtufxkty777";
+    const PWD = "test";
     const DBNAME = "activeRecord";
     const HOST = "localhost";
 
